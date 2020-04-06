@@ -4,7 +4,7 @@
 
 using namespace std;
 
-class Gracz
+class Gracz  /// posiada metody dla ruchu paletek oraz okreslienia pozycji.
 {
 public:
 
